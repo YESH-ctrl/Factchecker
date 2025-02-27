@@ -4,7 +4,7 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
     }
 });
 
-// chrome.runtime.onInstalled.addListener(() => {
+
 //     chrome.contextMenus.create({
 //       id: "checkMisinformation",
 //       title: "Check for Misinformation",
